@@ -10,5 +10,5 @@ customize the cp/mv as cust_cp/cust_mv shell command to support run with test/do
 2. then can use those commands cust_cp/cust_mv from your script
 
 ## mode
-* test - just did a checking, not expectue the cp/mv commands
+* test - just did a checking, not execute the cp/mv commands
 * run - execute the cp/mv commands
